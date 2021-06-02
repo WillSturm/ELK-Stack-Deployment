@@ -68,12 +68,15 @@ _Note: Use the [Markdown Table Generator](http://www.tablesgenerator.com/markdow
 |----------------------|--------------|--------------------------|------------------|
 | JumpBox-OffSec       | Gateway      | 10.1.0.4 /20.98.223.164  | Linux            |
 | Web1-OffSec          |Web Server    | 10.1.0.5                 | Linux            |
-| Web2-OffSec          |Web Server    | 10.1.0.9                 | Linux           
-|
-| Web3-OffSec          |Web Server    | 10.1.0.7                 | Linux            
-|
+|                      |              |                          |                  | 
+| Web2-OffSec          |Web Server    | 10.1.0.9                 | Linux            |
+|                      |              |                          |                  |
+| Web3-OffSec          |Web Server    | 10.1.0.7                 | Linux            |
+|                      |              |                          |                  |
 | ELK-VM               |ELK Server    | 10.2.0.4 /168.62.58.101  | Linux            |
+|                      |              |                          |                  |
 | OffSecLB             |Load Balancer | Static External IP       | Linux            |
+|                      |              |                          |                  |
 | Workstation          |Access Control| External IP or PublicIP  | Linux            |
 
 - Follow this step below to create a Load Balancer for Web1-OffSec and Web2-OffSec
