@@ -67,6 +67,7 @@ _Note: Use the [Markdown Table Generator](http://www.tablesgenerator.com/markdow
 | Name                 | Function     | IP Address               | Operating System |
 |----------------------|--------------|--------------------------|------------------|
 | JumpBox-OffSec       | Gateway      | 10.1.0.4 /20.98.223.164  | Linux            |
+|                      |              |                          |                  |
 | Web1-OffSec          |Web Server    | 10.1.0.5                 | Linux            |
 |                      |              |                          |                  | 
 | Web2-OffSec          |Web Server    | 10.1.0.9                 | Linux            |
